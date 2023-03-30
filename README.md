@@ -1,1 +1,3 @@
-# shared-Dapp-chat
+# GigCoin
+
+## Landing Page
